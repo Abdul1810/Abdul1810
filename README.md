@@ -1,6 +1,6 @@
 ## About Me
 
-Abdul | 18 | He/Him ❤
+Abdul Rahman | 18 | He/Him ❤
 
 ## Most Used Languages
 
