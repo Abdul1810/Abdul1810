@@ -2,6 +2,6 @@
 
 Abdul Rahman | 19 | He/Him ❤
 
-## Most Used Languages
+## Chat With Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul1810)](https://rahman.works)
+[Discord](https://discord.com/users/737553088218529813)
