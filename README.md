@@ -1,6 +1,6 @@
 ## About Me
 
-Abdul Rahman | 20 | He/Him ❤
+Abdul Rahman | 21 | He/Him ❤
 
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Abdul1810/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
